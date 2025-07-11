@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/psalzman-mcp-openfec-badge.png)](https://mseep.ai/app/psalzman-mcp-openfec)
+
 # MCP OpenFEC Server
 
 A Model Context Protocol (MCP) server that provides access to Federal Election Commission (FEC) campaign finance data through the OpenFEC API.
